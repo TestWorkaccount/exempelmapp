@@ -74,4 +74,8 @@ $z =$x % $y;   //$z = 10 % 3 = 1
 
 echo $z;
 
+echo "<br>";
+echo "<br>";
+echo "Här är ny rader";
+
 ?>
